@@ -51,4 +51,4 @@ The main work for the plugin is done via webservices that are available via the 
 - Export issues from a project: http GET to /api/issueresolver/export
 - Import issues in a project: http POST to /api/issueresolver/import
 
-These webservices can be used by external tools to trigger the functionality.
+These webservices can be used by external tools to trigger the functionality.#QACplugsonarqube
