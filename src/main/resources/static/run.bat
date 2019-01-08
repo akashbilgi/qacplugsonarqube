@@ -1,0 +1,3 @@
+cd %userprofile%
+
+sonar-scanner
